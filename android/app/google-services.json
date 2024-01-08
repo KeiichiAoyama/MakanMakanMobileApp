@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068391541356",
+    "project_id": "makanmakan-e18cc",
+    "storage_bucket": "makanmakan-e18cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068391541356:android:9c34a71f497e558bc74649",
+        "android_client_info": {
+          "package_name": "com.example.makanmakan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVaYDq-anGJNaOs7e3h4Epkm4JObP8fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
